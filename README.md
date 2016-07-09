@@ -15,6 +15,8 @@
 >
 >7. Auto Layout 分辨率适配
 
+![](https://github.com/itCatface/IOS-003_NumGallery/blob/master/image/NumGallery.png?raw=true)
+
 # 1. PickerView选中并展示对应图片
 
 1. **绑定控件并初始化 UIPickerView 条目数量**
